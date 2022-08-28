@@ -106,7 +106,8 @@ function buildCharts(sample) {
         t: 30,
         l: 100,
         r: 100,
-        b: 30}
+        b: 30
+      }
     };
     // 10. Use Plotly to plot the data with the layout. 
     Plotly.newPlot("bar", barData, barLayout);

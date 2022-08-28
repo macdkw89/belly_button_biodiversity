@@ -1,1 +1,2 @@
-# belly_button_biodiversity
+# Belly Button Biodiversity Dashboard
+This project uses javascript, plotly, and html to create a dashboard that allows the user to browse research data involving belly button bacteria in sample populations.
